@@ -1,1 +1,27 @@
-20251029 code and note
+Todo :
+
+10/23咪挺
+--------
+原始code
+1. Val為什麼會下降
+2. 可驗證一抽完y0就算一次loss
+3. Hjj
+
+Validation某種程度代表比較真的loss
+
+
+----
+論文-第一篇
+再講一次markov chain
+Backwards 的部分
+馬可夫鏈是可以inverse的嗎
+
+從score matching (song yang et.al)的角度可以知道loss不會等於零
+可是在這篇為什麼0
+
+---
+程式：
+ESM loss vs. DSM loss可以做做看
+（看一下機器學習頌揚的那部影片）
+
+目標：score matching跟論文哪裡不一樣
