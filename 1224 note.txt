@@ -1,0 +1,12 @@
+1. langevin epsilon 項調小看看 (=0應該會集中在某個點)
+2. 做一維數據看看 (sqrt epsilon會影響分布的寬度)
+
+3. 第一部分: 現有的score function去看langevin 有多準 =>看noise影響有多大
+    第二部分: check 
+
+4. vincent那篇可以多看
+
+
+DSM -> time -> VE SDE
+
+
